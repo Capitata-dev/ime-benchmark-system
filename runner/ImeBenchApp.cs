@@ -421,7 +421,7 @@ class App : Form {
     void Submit() {
         if (lastRun == null) return;
         MessageBox.Show(this, string.Format(L("submitSteps"), lastRun), "IME精度測定", MessageBoxButtons.OK, MessageBoxIcon.Information);
-        Process.Start("https://github.com/Canta360/ime-benchmark-system/upload/main/results");
+        Process.Start("https://github.com/Capitata-dev/ime-benchmark-system/upload/main/results");
         Process.Start("explorer.exe", "/select,\"" + lastRun + "\"");
     }
 

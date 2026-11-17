@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://canta360.github.io/ime-benchmark-system/"><img src="assets/results-banner.ja.svg" alt="結果を見る" width="560"></a>
+  <a href="https://capitata-dev.github.io/ime-benchmark-system/"><img src="assets/results-banner.ja.svg" alt="結果を見る" width="560"></a>
 </p>
 
 <p align="center">
@@ -107,7 +107,7 @@ python tools\bench.py score results\<結果フォルダ>
 
 ## 結果ページ
 
-push するたびに、`tools/site.py` が[結果ページ](https://canta360.github.io/ime-benchmark-system/)（GitHub Pages、日本語と英語）を作り直します。
+push するたびに、`tools/site.py` が[結果ページ](https://capitata-dev.github.io/ime-benchmark-system/)（GitHub Pages、日本語と英語）を作り直します。
 
 - テキストの種類（日本語、英語まじり、英語）ごとの順位。95% 信頼区間と、1 位と差がないかの判定つき
 - セットごとの点数のドットプロット

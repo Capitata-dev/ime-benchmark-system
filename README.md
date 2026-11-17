@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://canta360.github.io/ime-benchmark-system/"><img src="assets/results-banner.en.svg" alt="View the results" width="560"></a>
+  <a href="https://capitata-dev.github.io/ime-benchmark-system/"><img src="assets/results-banner.en.svg" alt="View the results" width="560"></a>
 </p>
 
 <p align="center">
@@ -127,7 +127,7 @@ python tools\bench.py score results\<run>
 
 ## Results page
 
-`tools/site.py` builds the [results page](https://canta360.github.io/ime-benchmark-system/) (GitHub Pages, Japanese and
+`tools/site.py` builds the [results page](https://capitata-dev.github.io/ime-benchmark-system/) (GitHub Pages, Japanese and
 English) on every push:
 
 - a rank per kind of text (Japanese, with English, English), with 95%
